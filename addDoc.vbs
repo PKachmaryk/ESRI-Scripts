@@ -46,7 +46,7 @@ Set fs = Nothing
       
       Me![PhotoLoc] = newPath & Uid & strFileName
       
-  
+     
       
    End If
    
